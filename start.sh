@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /home/$USER/dnmp/
-docker-compose up
+# 启动dnmp
+docker-compose -f /home/$USER/dnmp/docker-compose.yml up -d
