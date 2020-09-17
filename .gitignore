@@ -4,6 +4,7 @@
 nohup.out
 docker-compose.yml
 docker-compose.yml.*
+.directory
 www/
 www/localhost/
 www/*
