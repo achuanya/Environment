@@ -1,6 +1,7 @@
 .idea
+.git
+.github
 .DS_Store
-.env
 nohup.out
 docker-compose.yml
 docker-compose.yml.*
