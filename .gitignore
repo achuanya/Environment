@@ -9,4 +9,4 @@ docker-compose.yml.*
 www/
 www/localhost/
 www/*
-logs/*
+logs/
